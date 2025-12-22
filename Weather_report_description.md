@@ -66,8 +66,3 @@ The objective of this project is to demonstrate **practical data analytics skill
 ## 📌 Author
 
 **Gandharva Thotla**  
-Aspiring Data Analyst | Power BI | SQL | Python | Excel | Tableau  
-
----
-
-## 🔖 GitHub Topics
